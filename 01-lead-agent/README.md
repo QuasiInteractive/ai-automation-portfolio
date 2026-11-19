@@ -1,5 +1,7 @@
 # 01 Lead agent
 
+**[Watch the 1-minute demo](demo.mp4)**
+
 A lead comes in from a web form. The workflow checks it, an AI scores it, a second check makes sure the AI's answer makes sense, and the lead is saved to a small CRM, sorted best first.
 
 ## Endpoints (local)

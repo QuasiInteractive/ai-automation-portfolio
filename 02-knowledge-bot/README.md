@@ -1,5 +1,7 @@
 # 02 Knowledge bot
 
+**[Watch the 1-minute demo](demo.mp4)**
+
 A customer asks a question. The bot finds the right part of the business's own documents and answers from that only, showing which document it used. If the answer isn't in the documents, it says it doesn't know instead of guessing. A 20-question test measures how often it gets things right, and how often it makes something up.
 
 The demo business is **Coastline Cooling**, a made-up Gold Coast air-con installer. Its five documents are in `02_kb_docs/`.

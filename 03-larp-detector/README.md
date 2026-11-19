@@ -1,5 +1,7 @@
 # 03 LARP Detector
 
+**[Watch the 1-minute demo](demo.mp4)**
+
 Paste a review or a forum post, and it tells you whether it sounds like real experience or fake confidence: hype, made-up results, or someone selling something. It highlights the exact words behind each flag. It can also pull real posts from Hacker News and check them.
 
 ## Endpoints (local)

@@ -12,6 +12,11 @@ Every project here runs locally for free: **n8n** in Docker, a **local LLM** thr
 | 4 | [**Kensa-ya**](https://kensa-ya.com) (live) | AI document extraction in production: photo of a handwritten Japanese auction sheet in, checked English report out. Schema validation, model fallback, automatic refunds when processing fails | Live product |
 | 5 | **Toffee** (live, private code) | Job app and automation for a solo tradie: enquiry, quote, booking, bill, paid, review. Timed follow-ups and reminders, a scheduler with duplicate-send protection, ad-to-revenue tracking, multi-business row-level security | Live since Nov 2026 with its first business user |
 
+## Demo videos (about a minute each)
+- [Lead Agent demo](01-lead-agent/demo.mp4): four leads scored, Sarah heats up, hot alert, then everything cools
+- [Knowledge Bot demo](02-knowledge-bot/demo.mp4): answers with sources, says "I don't know", ignores a trick question
+- [LARP Detector demo](03-larp-detector/demo.mp4): real vs fake reviews, the LinkedIn guru, a trick post, live Hacker News
+
 ## Screenshots
 
 **Lead Agent**: who to call right now
